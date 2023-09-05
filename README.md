@@ -31,4 +31,4 @@ General steps for exploring Peppi:
 
 ### Collaboration
 
-I welcome anyone battling daily with the horrors of using Peppi to participate in this project!
+I welcome anyone battling daily with the horrors of using Peppi to participate in this project.
