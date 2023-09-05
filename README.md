@@ -13,7 +13,7 @@ Two points of interests have been identified for further exploration:
 1. /calendar - Personal calendar of the student
    - currently visable only in Tuudo app
    - no export functionality to your personal calendar 
-2. /guide - Study guide
+2. /studyguide - Study guide
    - poor usability of current web site: https://opas.peppi.oulu.fi/fi/index?period=2023-2024
    - no possibility to plan studies with lecture, excersice and exam dates in a calendar view
 
