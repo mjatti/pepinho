@@ -15,7 +15,7 @@ Two points of interests have been identified for further exploration:
    - no export functionality to your personal calendar 
 2. /studyguide - Study guide
    - poor usability of current web site: https://opas.peppi.oulu.fi/fi/index?period=2023-2024
-   - no possibility to plan studies with lecture, excersice and exam dates in a calendar view
+   - no possibility to plan studies with lecture, exercise and exam dates in a calendar view
 
 ### Actual work
 
@@ -31,4 +31,4 @@ General steps for exploring Peppi:
 
 ### Collaboration
 
-I welcome anyone battling daily with the horrors of using Peppi to participate to this project!
+I welcome anyone battling daily with the horrors of using Peppi to participate in this project!
