@@ -1,6 +1,6 @@
 ## What is pepinho?
 
-Pepinho is a pet project aiming to improve specific features and usability issues in the Peppi virtual student desktop. This project takes the deployment in at the University of Oulu into account, but is likely useful elsewhere too.
+Pepinho is a pet project aiming to improve specific features and usability issues in the Peppi virtual student desktop. Pepinho specifically explores the version used by the University of Oulu, but work done here likely useful elsewhere too.
 
 ## What is Peppi?
 
